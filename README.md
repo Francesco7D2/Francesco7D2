@@ -1,4 +1,4 @@
-# Hello, I'm Francesco Tedesco 👋
+# Hello, I'm Francesco 👋
 
 I am a student of Computational Mathematics and Data Analytics at Universitat Autònoma de Barcelona.
 
