@@ -1,6 +1,6 @@
 # Hello, I'm Francesco 👋
 
-I'm Francesco Tedesco, a computational mathematics graduate based in the Barcelona area, with research experience in scientific machine learning and applied deep learning. My focus is on research engineering, machine learning engineering, and data science, combining mathematical methods with Python/PyTorch experimentation.
+I'm Francesco Tedesco, a computational mathematics graduate based in the Barcelona area, with research experience in scientific machine learning and applied deep learning. 
 
 I'm pursuing a **Master's in Advanced Mathematics and Mathematical Engineering at UPC**
 
