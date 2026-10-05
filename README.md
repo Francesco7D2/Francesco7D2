@@ -30,8 +30,6 @@ I'm pursuing a **Master's in Advanced Mathematics and Mathematical Engineering a
 
 ## 📫 Contact
 
-Feel free to reach out for collaboration or discussion.
-
-[Email](mailto:francescotedesco7d2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/francescotedesco7d2/)
+Feel free to reach out for collaboration or discussion. [LinkedIn](https://www.linkedin.com/in/francescotedesco7d2/)
 
 
