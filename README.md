@@ -12,7 +12,8 @@ data-science roles from July 2027.
 - Physics-informed neural networks (PINNs) in Python/PyTorch for the acoustic wave equation with a point source and impedance boundary conditions.
 - Large-scale experiments on 1D reductions to explain why PINN training fails, using neural tangent kernel spectra, loss Hessian eigenvalues and gradient statistics.
 - Experiment sweeps on MareNostrum 5: up to 96 H100 GPUs across 24 nodes, several concurrent runs per GPU.
-- Contributed talk at [ICOSAHOM 2025](https://icosahom2025.org/schedule-detailed.html): *Solving the Acoustic Wave Equation with PIML: challenges with source terms and absorbing boundary conditions*.
+- Contributed talk at [ICOSAHOM 2025](https://icosahom2025.org/schedule-detailed.html) in Montreal, Canada: *Solving the Acoustic Wave Equation with PIML: challenges with source terms and absorbing boundary conditions*.
+- Talk on the same work at [SciMUA 2025](https://www.bcamath.org/events/SciMUA-2025/en/workshop/se-346/), a workshop on scientific machine learning at BCAM, Bilbao.
 
 **GFIRE, Autonomous University of Barcelona** · Research Collaborator (bachelor's thesis) · November 2023 – June 2025
 
