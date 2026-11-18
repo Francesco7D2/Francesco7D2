@@ -24,7 +24,7 @@ to fit around my master's commitments.
 ## Education
 
 - **Polytechnic University of Catalonia (UPC)** · Master's in Advanced Mathematics and Mathematical Engineering · September 2025 – July 2027 (expected). Thesis in progress: neuroimaging markers to constrain seizure onset zone localisation from intracranial EEG.
-- **University of Barcelona** · Visiting Student · September 2025 – January 2026. Courses in Fourier analysis and existence theory for partial differential equations.
+- **University of Barcelona** · Visiting Student · September 2025 – February 2026. Courses in Fourier analysis and existence theory for partial differential equations.
 - **Autonomous University of Barcelona** · Bachelor's in Computational Mathematics and Data Analytics · September 2021 – June 2025. Overall average 8.96/10; Matrícula d'Honor in 13 courses.
 
 ## Selected project
