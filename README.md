@@ -3,8 +3,8 @@
 Computational mathematician based in Barcelona, with experience in scientific
 machine learning. I'm finishing a master's at UPC (thesis defence in June
 2027) and I'm open to full-time roles and internships in research engineering,
-machine learning and data science. Start date and working hours depend on the
-role and my master's commitments.
+machine learning and data science from February 2027. Working hours would need
+to fit around my master's commitments.
 
 ## Experience
 
@@ -14,7 +14,7 @@ role and my master's commitments.
 - Investigated PINN training failures on 1D reductions using neural tangent kernel spectra, the largest loss Hessian eigenvalue and gradient statistics.
 - Independent experiment runs on MareNostrum 5: up to 96 H100 GPUs across 24 nodes, several concurrent runs per GPU.
 - Contributed talk at [ICOSAHOM 2025](https://icosahom2025.org/schedule-detailed.html) in Montreal, Canada: *Solving the Acoustic Wave Equation with PIML: challenges with source terms and absorbing boundary conditions*.
-- Talk on the same work at [SciMUA 2025](https://www.bcamath.org/events/SciMUA-2025/en/workshop/se-346/), a workshop on scientific machine learning at BCAM, Bilbao.
+- Talk on the same work at [SciMUA 2025](https://www.bcamath.org/events/SciMUA-2025/en/workshop-program/su-354/), a workshop on scientific machine learning at BCAM, Bilbao.
 
 **GFire, Autonomous University of Barcelona** · Research Collaborator (bachelor's thesis) · November 2023 – June 2025
 
