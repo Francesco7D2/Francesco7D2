@@ -16,7 +16,7 @@ role and my master's commitments.
 - Contributed talk at [ICOSAHOM 2025](https://icosahom2025.org/schedule-detailed.html) in Montreal, Canada: *Solving the Acoustic Wave Equation with PIML: challenges with source terms and absorbing boundary conditions*.
 - Talk on the same work at [SciMUA 2025](https://www.bcamath.org/events/SciMUA-2025/en/workshop/se-346/), a workshop on scientific machine learning at BCAM, Bilbao.
 
-**GFIRE, Autonomous University of Barcelona** · Research Collaborator (bachelor's thesis) · November 2023 – June 2025
+**GFire, Autonomous University of Barcelona** · Research Collaborator (bachelor's thesis) · November 2023 – June 2025
 
 - Fuel-type map of all of Catalonia (about 32,000 km²) from regional LiDAR point clouds and imagery.
 - Engineered geometric features from covariance-matrix eigenvalues; selected features using point-biserial correlation and principal component analysis (PCA) loadings, and trained a U-Net for semantic segmentation (test precision 68%, IoU 0.46).
